@@ -5,5 +5,5 @@ The Office Integration for Equella is a standalone application for Windows that 
 Due to licensing issues with the ```Office.dll``` artifact, the ```Office.dll``` had to be removed.  
 
 To build the ```msi``` installer binary:
-#Obtain an updated ```Office.dll`` from Microsoft and place in ```/EquellaOfficeScrapbookIntegration/Lib```.  History in [Equella#98](https://github.com/equella/Equella/issues/98).
-#Build the project as an ```msi``` installer on a Windows machine
+1. Obtain an updated ```Office.dll``` from Microsoft and place in ```/EquellaOfficeScrapbookIntegration/Lib```.  History in [Equella#98](https://github.com/equella/Equella/issues/98).
+1. Build the project as an ```msi``` installer on a Windows machine
