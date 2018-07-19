@@ -1,6 +1,6 @@
-# Equella Office Integration
+# openEQUELLA Office Integration
 
-The Office Integration for Equella is a standalone application for Windows that historical was 'included' as a download link in Equella.  This download link has now been removed, but the functionality is still possible.  
+The Office Integration for openEQUELLA is a standalone application for Windows that historical was 'included' as a download link in openEQUELLA.  This download link has now been removed, but the functionality is still possible.  
 
 Due to licensing issues with the ```Office.dll``` artifact, the ```Office.dll``` had to be removed.  
 
